@@ -1,7 +1,7 @@
 # UAV-SITL
 A 6 DOF aircraft model developed in Matlab. Interfaced with QGroundControl and Flight Gear via Simulink. Based on RCAM Model created by Christopher Lum. https://www.youtube.com/watch?v=bFFAL9lI2IQ
 
-I made this software for my BEng Aerospace Systems Engineering dissertation. It has also been featured in an open-access article published in the MDPI journal.
+I made this software for my BEng Aerospace Systems Engineering dissertation. It was awarded "Best Project Award" by RAeS (Royal Aeronautical Society) at Coventry University in 2022. It has also been featured in an open-access article published in the MDPI journal.
 The article can be found here https://www.mdpi.com/2673-4052/3/3/25
 
 The software requires Matlab R2021b. 
